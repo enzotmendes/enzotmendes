@@ -66,12 +66,22 @@ Minha abordagem: **código testado, observável, com permissões claras e pronto
 
 ## 🌟 Projetos em destaque
 
-### [Desk Mendes](https://github.com/enzotmendes/Desk-) — Sistema de Chamados
+### 🎫 [CodeHub Desk](https://github.com/enzotmendes/Desk-) — Sistema de Chamados
 > Sistema completo de gestão de tickets internos usado em ambiente real. Inclui kanban de tasks, Gantt, SLA com horário comercial brasileiro + feriados, milestones/sprints, notas seguras de projeto (com toggle de credenciais), fila assíncrona de emails com retry exponencial, rate limiting per-route, audit log estruturado com pino e matriz de permissões centralizada.
 >
 > **Stack**: Next.js 16 (Turbopack) · TypeScript · Prisma · PostgreSQL (Supabase) · NextAuth v5 · Tailwind v4 · Framer Motion · Three.js · Vitest
 
-📌 *Mais projetos chegando — incluindo módulo de bots IA pra triagem automática de tickets.*
+### 📣 [MG Assessoria](https://github.com/enzotmendes/Marketing-Influ---Project) — CRM de Marketing de Influência
+> Plataforma corporativa multi-tenant para agência de marketing de influencers: gestão de campanhas, briefings com IA (Claude/OpenAI), CRM de leads, contratos, rastreio Correios, pagamentos, métricas Recharts e portal isolado pro influenciador. 18 módulos, multi-tenant com Supabase RLS.
+>
+> **Stack**: Next.js 16 · TypeScript · Supabase (Postgres + Auth + RLS) · Tailwind · Radix UI · TanStack Table · React Hook Form + Zod · Recharts · Anthropic Claude
+
+### 🕷️ [Criativos Hub](https://github.com/enzotmendes/Desk---Scrapping-Socials) — Pipeline de Conteúdo Social
+> Coleta automatizada de Instagram (estáticos/carrosséis/vídeos), YouTube e Meta Ads Library. Transcreve com Whisper (Groq), analisa multimodal com Claude, gera hooks magnéticos, roteiros e ranking de melhor conteúdo. Backend FastAPI async + scheduler. Frontend exporta relatórios em PDF/DOCX.
+>
+> **Stack**: FastAPI · Python · Anthropic Claude · Groq Whisper · Apify · yt-dlp · Supabase Edge Functions · React 19 · Vite · Tailwind v4
+
+📌 *Mais projetos sendo estruturados — incluindo módulo de agentes IA pra triagem automática de tickets.*
 
 ---
 
