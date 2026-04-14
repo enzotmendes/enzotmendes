@@ -85,12 +85,19 @@ Minha abordagem: **código testado, observável, com permissões claras e pronto
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzotmendes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzotmendes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+[![Followers](https://img.shields.io/github/followers/enzotmendes?label=Followers&style=for-the-badge&color=00d4aa&labelColor=0d1117)](https://github.com/enzotmendes)
+[![Stars](https://img.shields.io/github/stars/enzotmendes?label=Stars&style=for-the-badge&color=e8194b&labelColor=0d1117)](https://github.com/enzotmendes)
+[![Profile views](https://komarev.com/ghpvc/?username=enzotmendes&style=for-the-badge&color=6b4fbb&label=Profile+Views)](https://github.com/enzotmendes)
+
+[![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzotmendes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/enzotmendes)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzotmendes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/enzotmendes)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzotmendes&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/enzotmendes)
 
 </div>
 
