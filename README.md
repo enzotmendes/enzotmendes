@@ -1,117 +1,98 @@
-<div align="center">
+# Enzo Tortelli Mendes
 
-# Olá, sou Enzo Mendes 👋
+**Full-Stack Developer | AI Applications & API Integrations**
 
-### Full Stack Developer · IA-Powered Engineering
+I build web applications for commerce, marketing, and business operations. My work spans frontend interfaces, backend services, databases, AI features, and external APIs.
 
-Construo aplicações web modernas com foco em **arquitetura escalável**, **boas práticas** e **integração com inteligência artificial** para automatizar, acelerar e melhorar a experiência do usuário.
+I have built products from scratch and joined existing projects to continue their development.
 
-[![GitHub followers](https://img.shields.io/github/followers/enzotmendes?label=Follow&style=social)](https://github.com/enzotmendes)
-[![Email](https://img.shields.io/badge/-mrn95me%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mrn95me@gmail.com)
+[Selected work](#selected-work) | [Technologies](#technologies-used) | [AI & integrations](#ai--integrations) | [Contact](mailto:mrn95me@gmail.com)
 
-</div>
+**Spoken languages:** Portuguese (native) and English (fluent).
 
----
+## Selected Work
 
-## 🚀 Sobre
+Some professional projects have private source code. Their scope and my role are summarized below.
 
-Trabalho como desenvolvedor full stack com forte interesse em **engenharia assistida por IA** — uso modelos LLM como ferramenta de produtividade, integração de produtos (chatbots, triagem automática, agentes) e como aliado no design de arquitetura.
+### TRCK Hub
 
-Minha abordagem: **código testado, observável, com permissões claras e pronto pra produção**. Nada de POC bonito que quebra no primeiro usuário concorrente.
+**My role: built from scratch.**
 
----
+A commerce operations hub that brings together marketplace orders, inventory, and financial data. It reconciles channel data with the ERP to surface differences in orders, stock, and invoicing.
 
-## 🛠️ Stack
+- **Integrations:** Tiny ERP, Mercado Livre, Shopee, Amazon, TikTok Shop, Magalu, Netshoes, and Tray.
+- **Technologies:** TypeScript, React, Vite, Node.js, PostgreSQL, and Supabase.
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+### Habitat Natural
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**My role: built from scratch.**
 
-### IA & Automação
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+A lead acquisition and operations platform for an expedition travel business, covering CRM, reservations, waitlists, contracts, and financial workflows.
 
-### Testes & Observabilidade
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Pino](https://img.shields.io/badge/Pino-687634?style=for-the-badge&logo=pino&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+- **Engineering focus:** transactional reservations, background jobs, and notification queues.
+- **Technologies:** TypeScript, Next.js, Fastify, PostgreSQL, Supabase, Drizzle ORM, Redis, and BullMQ.
 
-### Deploy & DevOps
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### [MG Hub](https://github.com/enzotmendes/MG-HUB)
 
----
+**My role: built from scratch.**
 
-## 💡 O que me move
+A CRM for influencer marketing operations, covering clients, campaigns, scheduling, shipments, payments, and analysis.
 
-- 🧠 **IA como ferramenta de engenharia** — uso LLMs pra acelerar desenvolvimento, gerar testes, fazer code review e construir features assistivas pros usuários
-- 🏗️ **Arquitetura limpa** — matrizes de permissão centralizadas, filas assíncronas, rate limiting, observability estruturada
-- 📐 **UX / Design Systems** — kanbans com drag-drop fluido, animações sutis com Framer Motion, glassmorphism e dashboards densos sem ficar pesado
-- 🔒 **Segurança em primeiro lugar** — validação de uploads, sanitização HTML, audit logs, redaction automática de logs sensíveis
+- **Integrations:** Google Sheets imports, AfterShip tracking, Instagram workflows, and briefings with OpenAI and Anthropic Claude.
+- **Technologies:** TypeScript, Next.js, React, Node.js, Supabase, PostgreSQL, Zod, and Vitest.
 
----
+### Popozuda Hub
 
-## 🌟 Projetos em destaque
+**My role: built from scratch.**
 
-### 🎫 [Avant IA Desk](https://github.com/enzotmendes/AVANT-IA) — Sistema de Chamados
-> Sistema completo de gestão de tickets internos usado em ambiente real. Inclui kanban de tasks, Gantt, SLA com horário comercial brasileiro + feriados, milestones/sprints, notas seguras de projeto (com toggle de credenciais), fila assíncrona de emails com retry exponencial, rate limiting per-route, audit log estruturado com pino e matriz de permissões centralizada.
->
-> **Stack**: Next.js 16 (Turbopack) · TypeScript · Prisma · PostgreSQL (Supabase) · NextAuth v5 · Tailwind v4 · Framer Motion · Three.js · Vitest
+A commerce analytics platform that consolidates sales, fees, refunds, inventory, and margins across channels, with reporting on affiliate, live, and advertising activity.
 
-### 📣 [MG Hub](https://github.com/enzotmendes/MG-HUB) — CRM de Marketing de Influência
-> Plataforma corporativa multi-tenant para agência de marketing de influencers: gestão de campanhas, briefings com IA (Claude/OpenAI), CRM de leads, contratos, rastreio Correios, pagamentos, métricas Recharts e portal isolado pro influenciador. 18 módulos, multi-tenant com Supabase RLS.
->
-> **Stack**: Next.js 16 · TypeScript · Supabase (Postgres + Auth + RLS) · Tailwind · Radix UI · TanStack Table · React Hook Form + Zod · Recharts · Anthropic Claude
+- **Integrations:** TikTok Shop, Mercado Livre, Shopee, Shopify, Bling, and Appmax.
+- **Technologies:** TypeScript, Vite, Node.js, Hono, PostgreSQL, and Supabase.
 
-### 🕷️ [Marketing Scrapping](https://github.com/enzotmendes/MARKETING-SCRAPPING) — Pipeline de Conteúdo Social
-> Coleta automatizada de Instagram (estáticos/carrosséis/vídeos), YouTube e Meta Ads Library. Transcreve com Whisper (Groq), analisa multimodal com Claude, gera hooks magnéticos, roteiros e ranking de melhor conteúdo. Backend FastAPI async + scheduler. Frontend exporta relatórios em PDF/DOCX.
->
-> **Stack**: FastAPI · Python · Anthropic Claude · Groq Whisper · Apify · yt-dlp · Supabase Edge Functions · React 19 · Vite · Tailwind v4
+## Continued Development
 
-📌 *Mais projetos sendo estruturados — incluindo módulo de agentes IA pra triagem automática de tickets.*
+I joined these projects while development was already underway and continued building their functionality.
 
----
+| Project | Product scope | Technologies |
+| --- | --- | --- |
+| Casa das Embalagens (CDE) | B2B catalog, customer portal, orders, and an ERP integration API | Next.js, Fastify, PostgreSQL, Drizzle ORM |
+| Belas Garden | Multichannel CRM and an AI sales assistant connected to WhatsApp, Instagram, and Nuvemshop | Next.js, Python, FastAPI, OpenAI, Redis, Supabase |
+| Aize Hub | Commerce operations and analytics with Magazord, Bling, and marketplace data | React, Vite, JavaScript, TypeScript, Node.js, Supabase |
 
-## 📊 GitHub
+## More Public Work
 
-<div align="center">
+[Criativos Hub](https://github.com/enzotmendes/MARKETING-SCRAPPING): content collection and analysis for Instagram, YouTube, and Meta Ads Library, combining Python/FastAPI workflows, Whisper transcription, Claude analysis, and a React interface.
 
-[![Followers](https://img.shields.io/github/followers/enzotmendes?label=Followers&style=for-the-badge&color=00d4aa&labelColor=0d1117)](https://github.com/enzotmendes)
-[![Stars](https://img.shields.io/github/stars/enzotmendes?label=Stars&style=for-the-badge&color=e8194b&labelColor=0d1117)](https://github.com/enzotmendes)
-[![Profile views](https://komarev.com/ghpvc/?username=enzotmendes&style=for-the-badge&color=6b4fbb&label=Profile+Views)](https://github.com/enzotmendes)
+[C++ algorithms](https://github.com/enzotmendes/Trabalho-Algoritimos-2): academic programming work.
 
-[![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzotmendes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/enzotmendes)
+## Technologies Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzotmendes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/enzotmendes)
+| Area | Technologies |
+| --- | --- |
+| Programming | TypeScript, JavaScript, Python, SQL |
+| Web interfaces | React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Fastify, FastAPI, Hono, REST APIs, webhooks |
+| Data & authentication | PostgreSQL, Supabase, Drizzle ORM, Redis |
+| Background processing | BullMQ, scheduled workers |
+| Testing & monitoring | Vitest, Testing Library, Playwright, Pino, Sentry |
+| Delivery | Git, GitHub Actions, Docker, Vercel, Coolify |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzotmendes&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/enzotmendes)
+## AI & Integrations
 
-</div>
+| Area | Services used across the projects |
+| --- | --- |
+| Product AI | OpenAI, Anthropic Claude, Whisper via Groq |
+| Commerce platforms | Mercado Livre, Shopee, Amazon, TikTok Shop, Magalu, Netshoes, Shopify, Nuvemshop, Tray |
+| ERP & commerce operations | Tiny ERP, Bling, Magazord |
+| Payments & financial workflows | Asaas, Bradesco Pix, Sicredi, Appmax |
+| Communication & signatures | WhatsApp, Evolution API, Meta/Instagram, Resend, ZapSign |
+| Data & content workflows | Google Sheets, AfterShip, Apify, YouTube, Meta Ads Library |
 
----
+### Development Tools
 
-## 📫 Contato
+I use Codex in my development workflow. My product work also includes AI sales assistants, marketing briefings, content analysis, and audio transcription.
 
-- 📧 **Email**: [mrn95me@gmail.com](mailto:mrn95me@gmail.com)
-- 💼 **GitHub**: [@enzotmendes](https://github.com/enzotmendes)
+## Contact
 
----
-
-<div align="center">
-
-*"Boas ferramentas amplificam bons engenheiros — IA é a nova boa ferramenta."*
-
-</div>
+[Email](mailto:mrn95me@gmail.com) | [GitHub](https://github.com/enzotmendes)
