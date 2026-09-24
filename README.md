@@ -12,7 +12,7 @@ Desenvolvo aplicações web que conectam atendimento, vendas, operações e dado
 
 Projetos profissionais desenvolvidos na empresa. Os estudos de caso apresentam minha participação e as funcionalidades dos sistemas; o código-fonte privado e os dados dos clientes não são publicados aqui.
 
-### [Habitat Natural](projects/habitat-natural/README.md)
+### [Habitat Natural](https://github.com/enzotmendes/habitat-natural-portfolio)
 
 **Minha atuação: desenvolvimento do zero.**
 
@@ -23,9 +23,9 @@ Plataforma de gestão de viagens e expedições que conecta captação de leads,
 - **Dados e processamento:** PostgreSQL, Supabase, Drizzle ORM, Redis e BullMQ; reservas com controle transacional e filas de notificações.
 - **Aplicação:** TypeScript, Next.js e Fastify.
 
-[Ver estudo de caso e captura da interface](projects/habitat-natural/README.md)
+[Ver estudo de caso e captura da interface](https://github.com/enzotmendes/habitat-natural-portfolio)
 
-### [Belas Garden](projects/belas-garden/README.md)
+### [Belas Garden](https://github.com/enzotmendes/belas-garden-portfolio)
 
 **Minha atuação: continuidade e evolução de um projeto já em desenvolvimento.**
 
@@ -36,9 +36,9 @@ CRM multicanal com a assistente de vendas Bela, integrando atendimento, informa�
 - **Dados:** Supabase/PostgreSQL e Redis.
 - **Aplicação:** Next.js, React, TypeScript, Python e FastAPI.
 
-[Ver estudo de caso e central de IA](projects/belas-garden/README.md)
+[Ver estudo de caso e central de IA](https://github.com/enzotmendes/belas-garden-portfolio)
 
-### [TRCK Hub](projects/trck-hub/README.md)
+### [TRCK Hub](https://github.com/enzotmendes/trck-hub-portfolio)
 
 **Minha atuação: desenvolvimento do zero.**
 
@@ -49,9 +49,9 @@ Central de operações de e-commerce que reúne pedidos, estoque e dados finance
 - **Dados e sincronização:** PostgreSQL, Supabase e rotinas de sincronização entre serviços.
 - **Aplicação:** TypeScript, React, Vite e Node.js.
 
-[Ver estudo de caso e apresentação pública](projects/trck-hub/README.md)
+[Ver estudo de caso e apresentação pública](https://github.com/enzotmendes/trck-hub-portfolio)
 
-### [Popozuda Hub](projects/popozuda-hub/README.md)
+### [Popozuda Hub](https://github.com/enzotmendes/popozuda-hub-portfolio)
 
 **Minha atuação: desenvolvimento do zero.**
 
@@ -62,7 +62,7 @@ Plataforma de análise de e-commerce com visão consolidada de vendas, taxas, re
 - **Análise operacional:** acompanhamento de afiliados, lives, anúncios e desempenho por produto.
 - **Aplicação e dados:** TypeScript, Vite, Node.js, Hono, PostgreSQL e Supabase.
 
-[Ver estudo de caso e captura do painel](projects/popozuda-hub/README.md)
+[Ver estudo de caso e captura do painel](https://github.com/enzotmendes/popozuda-hub-portfolio)
 
 ## Entregas técnicas
 
