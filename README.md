@@ -1,38 +1,35 @@
-# Enzo Tortelli Mendes
+<div align="center">
 
-**Desenvolvedor Full Stack | Sistemas, integrações e produtos web**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=900&color=36BFA1&center=true&vCenter=true&width=820&height=65&lines=Enzo+Tortelli+Mendes;Desenvolvedor+Full+Stack;Sistemas+%26+integra%C3%A7%C3%B5es" alt="Enzo Tortelli Mendes — Desenvolvedor Full Stack, sistemas e integrações" />
 
-Construo aplicações que conectam atendimento, operações, dados e serviços externos. Atuo da landing page ao sistema completo: interface, APIs, banco de dados e automações.
+### Transformo processos em sistemas que conectam pessoas, dados e serviços.
 
 [LinkedIn](https://www.linkedin.com/in/enzotortellimendess/) · [E-mail](mailto:mrn95me@gmail.com)
 
-## Habitat Natural — CRM, reservas e integrações financeiras
+</div>
 
-[![Formulário de cadastro do Habitat Natural, sem dados de clientes](assets/habitat-cadastro.jpg)](https://github.com/enzotmendes/habitat-natural-portfolio)
+---
 
-Desenvolvi do zero uma plataforma para viagens e expedições que reúne leads, CRM, reservas, contratos e financeiro. O escopo inclui **Bradesco Pix, Sicredi, Asaas e ZapSign**, além de PostgreSQL, Redis e filas para tarefas em segundo plano.
+### Em foco
 
-[Ver meu estudo de caso](https://github.com/enzotmendes/habitat-natural-portfolio) · [Conhecer a Habitat Natural](https://www.habitatnatural.com.br/)
+| Projeto | Minha contribuição | Integrações |
+| :--- | :--- | :--- |
+| **[Habitat Natural](https://github.com/enzotmendes/habitat-natural-portfolio)** | Desenvolvi do zero a plataforma de CRM, reservas, contratos e financeiro para viagens e expedições. | **Bradesco Pix · Sicredi · Asaas · ZapSign** |
+| **[Belas Garden](https://github.com/enzotmendes/belas-garden-portfolio)** | Evoluí o CRM multicanal, a assistente de vendas Bela e a central de conhecimento. | **OpenAI · WhatsApp · Instagram · Nuvemshop** |
 
-## Belas Garden — IA aplicada ao atendimento
+<sub>Habitat Natural: [site oficial](https://www.habitatnatural.com.br/) · Os links dos projetos levam a estudos de caso sem código proprietário.</sub>
 
-[![Central de IA do Belas Garden, sem conversas de clientes](assets/belas-central-ia.jpg)](https://github.com/enzotmendes/belas-garden-portfolio)
+### Também desenvolvi
 
-Evoluí um CRM multicanal já em desenvolvimento. Trabalhei na assistente de vendas Bela, na central de conhecimento e nas integrações com OpenAI, WhatsApp, Instagram e Nuvemshop.
+- **[TRCK Hub](https://github.com/enzotmendes/trck-hub-portfolio)** — sistema de operações que conecta marketplaces, Tiny ERP, pedidos, custos e margens.
+- **[Popozuda Hub](https://github.com/enzotmendes/popozuda-hub-portfolio)** — plataforma de indicadores de vendas, custos e margens com Bling e Appmax.
 
-[Ver meu estudo de caso](https://github.com/enzotmendes/belas-garden-portfolio)
+### Como trabalho
 
-## Mais projetos
+`TypeScript` · `React / Next.js` · `Node.js` · `Python / FastAPI` · `PostgreSQL` · `Redis` · `APIs REST` · `Webhooks`
 
-| Projeto | O que conecta | Minha atuação |
-| --- | --- | --- |
-| [TRCK Hub](https://github.com/enzotmendes/trck-hub-portfolio) | Marketplaces, Tiny ERP, pedidos, custos e margens | Desenvolvimento do zero |
-| [Popozuda Hub](https://github.com/enzotmendes/popozuda-hub-portfolio) | Canais de venda, Bling, Appmax e indicadores de e-commerce | Desenvolvimento do zero |
+Desenvolvo aplicações de ponta a ponta, da interface às integrações e automações. Os projetos acima mostram minha atuação sem expor código privado nem dados de clientes.
 
-**Tecnologias principais:** TypeScript, React, Next.js, Node.js, Python, FastAPI, PostgreSQL, Supabase, Redis, APIs REST e webhooks. Português nativo e inglês fluente.
-
-Esses projetos foram desenvolvidos na empresa. Os estudos de caso mostram minha participação e interfaces sem dados de clientes; o código privado permanece protegido. Não atribuo resultados financeiros sem medição documentada.
-
-## Vamos conversar?
+### Vamos conversar?
 
 Precisa de um sistema, integração, aplicação Full Stack ou landing page? [Fale comigo pelo LinkedIn](https://www.linkedin.com/in/enzotortellimendess/) ou [envie um e-mail](mailto:mrn95me@gmail.com).
