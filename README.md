@@ -29,13 +29,6 @@ Evoluí um CRM multicanal já em desenvolvimento. Trabalhei na assistente de ven
 | [TRCK Hub](https://github.com/enzotmendes/trck-hub-portfolio) | Marketplaces, Tiny ERP, pedidos, custos e margens | Desenvolvimento do zero |
 | [Popozuda Hub](https://github.com/enzotmendes/popozuda-hub-portfolio) | Canais de venda, Bling, Appmax e indicadores de e-commerce | Desenvolvimento do zero |
 
-## Projetos com código público
-
-- [MG-HUB](https://github.com/enzotmendes/MG-HUB): CRM de marketing de influência com campanhas, briefings com IA, contratos e portal do influenciador.
-- [Criativos Hub](https://github.com/enzotmendes/MARKETING-SCRAPPING): coleta, transcrição e análise de conteúdo com Python, FastAPI, TypeScript e IA.
-
-Habitat Natural, Belas Garden, TRCK Hub e Popozuda Hub são estudos de caso sem código proprietário. Nos dois repositórios desta seção, é possível explorar a implementação.
-
 **Tecnologias principais:** TypeScript, React, Next.js, Node.js, Python, FastAPI, PostgreSQL, Supabase, Redis, APIs REST e webhooks. Português nativo e inglês fluente.
 
 Esses projetos foram desenvolvidos na empresa. Os estudos de caso mostram minha participação e interfaces sem dados de clientes; o código privado permanece protegido. Não atribuo resultados financeiros sem medição documentada.
