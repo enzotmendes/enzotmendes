@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/enzotmendes/enzotmendes/806fc3aa15d31b537a2253f512ef44e481b3188a/assets/hero.svg" width="820" alt="Enzo Tortelli Mendes — Full Stack, sistemas de gestão e integrações" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=28&amp;duration=2600&amp;pause=1400&amp;color=36BFA1&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=58&amp;lines=Enzo+Tortelli+Mendes" alt="Enzo Tortelli Mendes" />
 
-<a href="https://www.linkedin.com/in/enzotortellimendess/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a> &nbsp; **[Vamos conversar no LinkedIn](https://www.linkedin.com/in/enzotortellimendess/)** &nbsp;·&nbsp; [E-mail](mailto:mrn95me@gmail.com)
+**Desenvolvedor Full Stack** · sistemas de gestão e integrações financeiras
+
+<a href="https://www.linkedin.com/in/enzotortellimendess/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn" /> LinkedIn</a> &nbsp;·&nbsp; [E-mail](mailto:mrn95me@gmail.com)
 
 </div>
 
