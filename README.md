@@ -3,7 +3,15 @@
 
 
 
+
+
+
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=900&color=36BFA1&center=true&vCenter=true&width=820&height=65&lines=Enzo+Tortelli+Mendes;Desenvolvedor+Full+Stack;Sistemas+%26+integra%C3%A7%C3%B5es" alt="Enzo Tortelli Mendes — Desenvolvedor Full Stack, sistemas e integrações" />
+
+
+
+
 
 
 
@@ -13,29 +21,52 @@
 
 
 
+
+
+
+
 [LinkedIn](https://www.linkedin.com/in/enzotortellimendess/) · [E-mail](mailto:mrn95me@gmail.com)
 
 
 
 
+
+
+
+
 </div>
 
 
 
 
+
+
+
+
 ---
+
+
 
 
 <div align="center">
 
-<img src="assets/flow.svg" alt="Fluxo animado: sistemas conectados a APIs, dados e serviços" />
+
+<img src="https://raw.githubusercontent.com/enzotmendes/enzotmendes/daf27681a14003adbf5d039d8c160cfe9ad6b6b5/assets/flow.svg" alt="Fluxo animado: sistemas conectados a APIs, dados e serviços" />
+
 
 </div>
+
 
 ---
 
 
+
+
 ### Em foco
+
+
+
+
 
 
 
@@ -48,7 +79,15 @@
 
 
 
+
+
+
+
 <sub>Habitat Natural: [site oficial](https://www.habitatnatural.com.br/) · Os links dos projetos levam a estudos de caso sem código proprietário.</sub>
+
+
+
+
 
 
 
@@ -58,30 +97,8 @@
 
 
 
+
+
+
+
 - **[TRCK Hub](https://github.com/enzotmendes/trck-hub-portfolio)** — sistema de operações que conecta marketplaces, Tiny ERP, pedidos, custos e margens.
-- **[Popozuda Hub](https://github.com/enzotmendes/popozuda-hub-portfolio)** — plataforma de indicadores de vendas, custos e margens com Bling e Appmax.
-
-
-
-
-### Como trabalho
-
-
-
-
-`TypeScript` · `React / Next.js` · `Node.js` · `Python / FastAPI` · `PostgreSQL` · `Redis` · `APIs REST` · `Webhooks`
-
-
-
-
-Desenvolvo aplicações de ponta a ponta, da interface às integrações e automações. Os projetos acima mostram minha atuação sem expor código privado nem dados de clientes.
-
-
-
-
-### Vamos conversar?
-
-
-
-
-Precisa de um sistema, integração, aplicação Full Stack ou landing page? [Fale comigo pelo LinkedIn](https://www.linkedin.com/in/enzotortellimendess/) ou [envie um e-mail](mailto:mrn95me@gmail.com).
