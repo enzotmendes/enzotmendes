@@ -1,1 +1,10 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="126" viewBox="0 0 820 126" role="img" aria-labelledby="title desc">
+<title id="title">Sistemas conectados</title><desc id="desc">Fluxo animado entre produto, APIs, dados e serviços externos.</desc>
+<style>text{font:600 15px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#1f3b3b}.small{font-size:11px;fill:#607875}.card{fill:#f3fbf8;stroke:#b8e4d8;stroke-width:1.5}.path{stroke:#8bcfbc;stroke-width:2;stroke-dasharray:5 6}.pulse{fill:#19a883}@media (prefers-reduced-motion:reduce){animateMotion{display:none}}</style>
+<rect width="820" height="126" rx="18" fill="#ffffff"/><path class="path" d="M177 63H643"/>
+<rect class="card" x="16" y="24" width="161" height="78" rx="14"/><rect class="card" x="236" y="24" width="161" height="78" rx="14"/><rect class="card" x="457" y="24" width="161" height="78" rx="14"/><rect class="card" x="643" y="24" width="161" height="78" rx="14"/>
+<text x="96" y="58" text-anchor="middle">PRODUTO</text><text class="small" x="96" y="79" text-anchor="middle">interfaces e processos</text>
+<text x="316" y="58" text-anchor="middle">APIs</text><text class="small" x="316" y="79" text-anchor="middle">integrações</text>
+<text x="537" y="58" text-anchor="middle">DADOS</text><text class="small" x="537" y="79" text-anchor="middle">regras e automações</text>
+<text x="723" y="58" text-anchor="middle">SERVIÇOS</text><text class="small" x="723" y="79" text-anchor="middle">pagamentos e assinatura</text>
+<circle class="pulse" r="5"><animateMotion dur="4s" repeatCount="indefinite" path="M177 63H643"/></circle><circle class="pulse" r="3" opacity=".5"><animateMotion dur="4s" begin="-2s" repeatCount="indefinite" path="M177 63H643"/></circle></svg>
