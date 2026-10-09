@@ -1,6 +1,6 @@
 <div align="center">
 
-# Enzo Tortelli Mendes
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=28&amp;duration=2600&amp;pause=1400&amp;color=36BFA1&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=58&amp;lines=Enzo+Tortelli+Mendes" alt="Enzo Tortelli Mendes" />
 
 **Desenvolvedor Full Stack** · sistemas de gestão e integrações financeiras
 
