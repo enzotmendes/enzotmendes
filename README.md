@@ -6,8 +6,6 @@
 
 </div>
 
-<br>
-
 ## Trabalho selecionado
 
 Sistemas que construí e evoluí para operações reais. Os links levam a estudos de caso, sem código privado ou dados de clientes.
@@ -46,7 +44,7 @@ Evoluí o **CRM multicanal**, a assistente de vendas Bela e a central de conheci
 
 ## [TRCK Hub ↗](https://github.com/enzotmendes/trck-hub-portfolio)
 
-Desenvolvi o sistema de operações que consolida **pedidos, custos e margens** de diferentes canais em uma visão de trabalho.
+Desenvolvi o sistema de operações que consolida **pedidos, custos e margens** de diferentes canais em um único painel.
 
 **Integrações** &nbsp; <img src="https://www.google.com/s2/favicons?domain=tiny.com.br&amp;sz=64" width="22" height="22" alt="" /> Tiny ERP &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=mercadolivre.com.br&amp;sz=64" width="22" height="22" alt="" /> Mercado Livre &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=shopee.com.br&amp;sz=64" width="22" height="22" alt="" /> Shopee &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=amazon.com.br&amp;sz=64" width="22" height="22" alt="" /> Amazon
 
@@ -64,7 +62,7 @@ Construí a plataforma de indicadores para acompanhar **vendas, custos e margens
 
 **Integrações** &nbsp; <img src="https://www.google.com/s2/favicons?domain=bling.com.br&amp;sz=64" width="22" height="22" alt="" /> Bling &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=appmax.com.br&amp;sz=64" width="22" height="22" alt="" /> Appmax &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=tiktok.com&amp;sz=64" width="22" height="22" alt="" /> TikTok Shop &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=mercadolivre.com.br&amp;sz=64" width="22" height="22" alt="" /> Mercado Livre
 
-**Tecnologias** &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="22" height="22" alt="" /> TypeScript &nbsp;·&nbsp; React / Vite &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="22" height="22" alt="" /> Node.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="" /> PostgreSQL
+**Tecnologias** &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="22" height="22" alt="" /> TypeScript &nbsp;·&nbsp; Vite &nbsp;·&nbsp; Hono &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="22" height="22" alt="" /> Node.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="" /> PostgreSQL
 
 [Estudo de caso →](https://github.com/enzotmendes/popozuda-hub-portfolio)
 
