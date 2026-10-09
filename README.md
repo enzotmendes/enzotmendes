@@ -1,54 +1,75 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=28&amp;duration=2600&amp;pause=1400&amp;color=36BFA1&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=58&amp;lines=Enzo+Tortelli+Mendes" alt="Enzo Tortelli Mendes" />
+<img src="https://raw.githubusercontent.com/enzotmendes/enzotmendes/806fc3aa15d31b537a2253f512ef44e481b3188a/assets/hero.svg" width="820" alt="Enzo Tortelli Mendes — Full Stack, sistemas de gestão e integrações" />
 
-**Desenvolvedor Full Stack** · sistemas de gestão e integrações financeiras
-
-<a href="https://www.linkedin.com/in/enzotortellimendess/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="" /> LinkedIn</a> &nbsp;·&nbsp; [E-mail](mailto:mrn95me@gmail.com)
+<a href="https://www.linkedin.com/in/enzotortellimendess/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a> &nbsp; **[Vamos conversar no LinkedIn](https://www.linkedin.com/in/enzotortellimendess/)** &nbsp;·&nbsp; [E-mail](mailto:mrn95me@gmail.com)
 
 </div>
 
+<br>
+
+## Trabalho selecionado
+
+Sistemas que construí e evoluí para operações reais. Os links levam a estudos de caso, sem código privado ou dados de clientes.
+
 ---
 
-### Projetos em destaque
+<sub>01 / TURISMO E EXPEDIÇÕES</sub>
 
-#### Habitat Natural
+## [Habitat Natural ↗](https://github.com/enzotmendes/habitat-natural-portfolio)
 
-Desenvolvi do zero a plataforma de CRM, reservas, contratos e financeiro para viagens e expedições.
+Criei do zero a plataforma que reúne **CRM, reservas, contratos e financeiro**. O fluxo conecta pagamentos, assinatura de documentos e a operação das viagens.
 
-**Integrações**  
-<img src="https://www.google.com/s2/favicons?domain=bradesco.com.br&amp;sz=64" width="18" height="18" alt="" /> Bradesco Pix &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=sicredi.com.br&amp;sz=64" width="18" height="18" alt="" /> Sicredi &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=asaas.com&amp;sz=64" width="18" height="18" alt="" /> Asaas &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=zapsign.com.br&amp;sz=64" width="18" height="18" alt="" /> ZapSign
+**Integrações** &nbsp; <img src="https://www.google.com/s2/favicons?domain=bradesco.com.br&amp;sz=64" width="22" height="22" alt="" /> Bradesco Pix &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=sicredi.com.br&amp;sz=64" width="22" height="22" alt="" /> Sicredi &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=asaas.com&amp;sz=64" width="22" height="22" alt="" /> Asaas &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=zapsign.com.br&amp;sz=64" width="22" height="22" alt="" /> ZapSign
 
-**Stack**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="19" height="19" alt="" /> TypeScript &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="19" height="19" alt="" /> Node.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="19" height="19" alt="" /> PostgreSQL
+**Tecnologias** &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="22" height="22" alt="" /> TypeScript &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="22" height="22" alt="" /> Node.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="" /> PostgreSQL
 
-[Ver estudo de caso](https://github.com/enzotmendes/habitat-natural-portfolio) · [Site da Habitat Natural](https://www.habitatnatural.com.br/)
+[Estudo de caso →](https://github.com/enzotmendes/habitat-natural-portfolio) &nbsp;·&nbsp; [Site da Habitat Natural ↗](https://www.habitatnatural.com.br/)
 
-#### Belas Garden
+---
 
-Evoluí o CRM multicanal, a assistente de vendas Bela e a central de conhecimento.
+<sub>02 / ATENDIMENTO E AUTOMAÇÃO</sub>
 
-**Integrações**  
-<img src="https://www.google.com/s2/favicons?domain=openai.com&amp;sz=64" width="18" height="18" alt="" /> OpenAI &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=whatsapp.com&amp;sz=64" width="18" height="18" alt="" /> WhatsApp &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=instagram.com&amp;sz=64" width="18" height="18" alt="" /> Instagram &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=nuvemshop.com.br&amp;sz=64" width="18" height="18" alt="" /> Nuvemshop
+## [Belas Garden ↗](https://github.com/enzotmendes/belas-garden-portfolio)
 
-**Stack**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="19" height="19" alt="" /> TypeScript &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="19" height="19" alt="" /> Python &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="19" height="19" alt="" /> PostgreSQL
+Evoluí o **CRM multicanal**, a assistente de vendas Bela e a central de conhecimento para apoiar o atendimento comercial.
 
-[Ver estudo de caso](https://github.com/enzotmendes/belas-garden-portfolio)
+**Integrações** &nbsp; <img src="https://www.google.com/s2/favicons?domain=openai.com&amp;sz=64" width="22" height="22" alt="" /> OpenAI &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=whatsapp.com&amp;sz=64" width="22" height="22" alt="" /> WhatsApp &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=instagram.com&amp;sz=64" width="22" height="22" alt="" /> Instagram &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=nuvemshop.com.br&amp;sz=64" width="22" height="22" alt="" /> Nuvemshop
 
-<sub>Estudos de caso sem código proprietário ou dados de clientes.</sub>
+**Tecnologias** &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="22" height="22" alt="" /> TypeScript &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22" height="22" alt="" /> Python &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="" /> PostgreSQL
 
-### Também desenvolvi
+[Estudo de caso →](https://github.com/enzotmendes/belas-garden-portfolio)
 
-- **[TRCK Hub](https://github.com/enzotmendes/trck-hub-portfolio)** — sistema de operações que conecta marketplaces, Tiny ERP, pedidos, custos e margens.
-- **[Popozuda Hub](https://github.com/enzotmendes/popozuda-hub-portfolio)** — plataforma de indicadores de vendas, custos e margens com Bling e Appmax.
+---
 
-### Como trabalho
+<sub>03 / OPERAÇÃO E DADOS</sub>
 
-`TypeScript` · `React / Next.js` · `Node.js` · `Python / FastAPI` · `PostgreSQL` · `Redis` · `APIs REST` · `Webhooks`
+## [TRCK Hub ↗](https://github.com/enzotmendes/trck-hub-portfolio)
 
-Desenvolvo aplicações de ponta a ponta, da interface às integrações e automações. Os projetos acima mostram minha atuação sem expor código privado nem dados de clientes.
+Desenvolvi o sistema de operações que consolida **pedidos, custos e margens** de diferentes canais em uma visão de trabalho.
 
-### Vamos conversar?
+**Integrações** &nbsp; <img src="https://www.google.com/s2/favicons?domain=tiny.com.br&amp;sz=64" width="22" height="22" alt="" /> Tiny ERP &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=mercadolivre.com.br&amp;sz=64" width="22" height="22" alt="" /> Mercado Livre &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=shopee.com.br&amp;sz=64" width="22" height="22" alt="" /> Shopee &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=amazon.com.br&amp;sz=64" width="22" height="22" alt="" /> Amazon
 
-Precisa de um sistema, integração, aplicação Full Stack ou landing page? [Fale comigo pelo LinkedIn](https://www.linkedin.com/in/enzotortellimendess/) ou [envie um e-mail](mailto:mrn95me@gmail.com).
+**Tecnologias** &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="22" height="22" alt="" /> TypeScript &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="22" height="22" alt="" /> React &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="22" height="22" alt="" /> Node.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="" /> PostgreSQL
+
+[Estudo de caso →](https://github.com/enzotmendes/trck-hub-portfolio)
+
+---
+
+<sub>04 / INTELIGÊNCIA COMERCIAL</sub>
+
+## [Popozuda Hub ↗](https://github.com/enzotmendes/popozuda-hub-portfolio)
+
+Construí a plataforma de indicadores para acompanhar **vendas, custos e margens**, reunindo dados de pagamentos e canais de venda.
+
+**Integrações** &nbsp; <img src="https://www.google.com/s2/favicons?domain=bling.com.br&amp;sz=64" width="22" height="22" alt="" /> Bling &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=appmax.com.br&amp;sz=64" width="22" height="22" alt="" /> Appmax &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=tiktok.com&amp;sz=64" width="22" height="22" alt="" /> TikTok Shop &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=mercadolivre.com.br&amp;sz=64" width="22" height="22" alt="" /> Mercado Livre
+
+**Tecnologias** &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="22" height="22" alt="" /> TypeScript &nbsp;·&nbsp; React / Vite &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="22" height="22" alt="" /> Node.js &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="22" height="22" alt="" /> PostgreSQL
+
+[Estudo de caso →](https://github.com/enzotmendes/popozuda-hub-portfolio)
+
+---
+
+### Tem um sistema ou integração em mente?
+
+Trabalho com aplicações Full Stack, automações e landing pages. [Vamos conversar pelo LinkedIn →](https://www.linkedin.com/in/enzotortellimendess/)
